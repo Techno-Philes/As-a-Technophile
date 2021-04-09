@@ -26,6 +26,21 @@ It looks great right, which shows that you are effective developer who had a gre
 
 And now, if you are feeling excited to make an effective overview in your github account you have to follow the steps given below:-
 
-1) Turnover to the link below
-   
-   [Karthik_mothiki github](https://github.com/KarthikMothiki/KarthikMothiki.git)
+1) Turnover to the link:- [Karthik_mothiki_github](https://github.com/KarthikMothiki/KarthikMothiki.git)
+
+2) Now you will see as follow:
+
+   ![fork](https://user-images.githubusercontent.com/78647748/114171906-96204f80-9952-11eb-96dd-0a4c118f7d91.png)
+
+3) Now on top right corner there is an option called fork and click on that and select where you want to fork it
+
+4) That's it you are done now it will be added to your github account as a repository and now what you should do is you should edit with your details by clicking README.md file and there will be edit option beside delete option and the view of it is as follows:
+
+   ![Readme](https://user-images.githubusercontent.com/78647748/114172982-08456400-9954-11eb-87ca-62212b98508f.png)
+
+5)  After editing withyour details move to the bottom of the page and click on commit changes which changes the forked data with your personal information. 
+
+6)  That's it you are done.
+
+By this step you understood how to make an effective overview about yourself.   
+
