@@ -45,5 +45,5 @@ And now, if you are feeling excited to make an effective overview in your github
 
 By this step you understood how to make an effective overview about yourself. I specially congratulate to each and every individual who had made an effective overview about themselves from the above mentioned steps and it was great enough to start working with your own projects so, what are you waiting for engage in your projects and enhance your knowledge!!
 
-HAPPY LEARNNG  
+HAPPY LEARNING  
 
