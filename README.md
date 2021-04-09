@@ -30,7 +30,8 @@ And now, if you are feeling excited to make an effective overview in your github
 
 2) Now you will see as follow:
 
-   ![fork](https://user-images.githubusercontent.com/78647748/114171906-96204f80-9952-11eb-96dd-0a4c118f7d91.png)
+   ![fork](https://user-images.githubusercontent.com/78647748/114173621-11830080-9955-11eb-9058-680bdf65383a.png)
+
 
 3) Now on top right corner there is an option called fork and click on that and select where you want to fork it
 
@@ -42,5 +43,7 @@ And now, if you are feeling excited to make an effective overview in your github
 
 6)  That's it you are done.
 
-By this step you understood how to make an effective overview about yourself.   
+By this step you understood how to make an effective overview about yourself. I specially congratulate to each and every individual who had made an effective overview about themselves from the above mentioned steps and it was great enough to start working with your own projects so, what are you waiting for engage in your projects and enhance your knowledge!!
+
+HAPPY LEARNNG  
 
