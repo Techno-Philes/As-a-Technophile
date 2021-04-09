@@ -14,6 +14,12 @@ If you are part of the Technophile organisation but not to our Discord Server th
 
 Community Link:- https://linktr.ee/karthik_mothiki
 
-Congratulations, on joining our server now all the technology related opportunities & Competitions are at your finger tips. Hope, you will use it in an essential way and on moving further...
+Congratulations, on joining our server now all the technology related Opportunities & Competitions are at your finger tips. Hope, you will use it in an essential way and on moving further...
 
 ## 1
+
+For a developer, having an enormous number of a great projects is an essential thing but it will be uneffective if we didn't maintain an great introduction of ourselves in github.
+So, if you are interested in making an enhancive introduction about yourself shown below!
+[Mukesh-Varma (MUKESH VARMA) - Google Chrome 4_9_2021 11_25_25 AM (2)](https://user-images.githubusercontent.com/78647748/114135214-8db21f80-9926-11eb-8b1d-26016c8f3d75.png)
+
+It looks great right
