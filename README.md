@@ -10,7 +10,7 @@ A special thanks to each and every individual who had filled the form and it's c
 
 ## 0.2
 
-If you are part of the Technophile organisation but not to Technophile's Discord Server then please do join our community for the Official announcements by following link..
+If you are part of the Technophile organisation but not to Technophile's Discord Server then please do join our Server by following link..
 
 Community Link:- https://linktr.ee/karthik_mothiki
 
