@@ -18,8 +18,7 @@ Congratulations, on joining our server now all the technology related Opportunit
 
 ## 0.3
 
-For a developer, having an enormous number of a great projects(repositories) is an essential thing but it will be uneffective if we didn't maintain a great overview about ourselves in github.
-So, if you are interested in making an enhancive introduction about yourself shown below!
+For a developer, having an enormous number of a great projects(Repositories) is an essential thing but it will be uneffective if we didn't maintain a great overview about ourselves in github. So, if you are interested in making an enhancive overview about yourself shown below!
 
 ![karthik_mothiki github](https://user-images.githubusercontent.com/78647748/114135699-41b3aa80-9927-11eb-81f4-b92cebf8fda6.png) 
 
