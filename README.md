@@ -35,7 +35,7 @@ And now, if you are feeling excited to make an effective overview in your github
 
 3) Now on top right corner there is an option called fork and click on that and select where you want to fork it
 
-4) That's it you are done now it will be added to your github account as a repository and now what you should do is you should edit with your details by clicking README.md file and there will be edit option beside delete option and the view of it is as follows:
+4) That's it you are done now it will be added to your github account as a repository and now what you should do is to edit with your details by clicking README.md file and there will be edit option beside delete option and it is as follows:
 
    ![Readme](https://user-images.githubusercontent.com/78647748/114172982-08456400-9954-11eb-87ca-62212b98508f.png)
 
