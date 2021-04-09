@@ -21,7 +21,7 @@ Congratulations, on joining our server now all the technology related Opportunit
 For a developer, having an enormous number of a great projects is an essential thing but it will be uneffective if we didn't maintain an great introduction of ourselves in github.
 So, if you are interested in making an enhancive introduction about yourself shown below!
 
-![karthik_mothiki github](https://user-images.githubusercontent.com/78647748/114135699-41b3aa80-9927-11eb-81f4-b92cebf8fda6.png)![Mukesh-Varma github](https://user-images.githubusercontent.com/78647748/114135355-c2be7200-9926-11eb-893e-80a1d4bd7335.png) 
-
+![karthik_mothiki github](https://user-images.githubusercontent.com/78647748/114135699-41b3aa80-9927-11eb-81f4-b92cebf8fda6.png)
+![Mukesh-Varma github](https://user-images.githubusercontent.com/78647748/114135355-c2be7200-9926-11eb-893e-80a1d4bd7335.png) 
 
 It looks great right
